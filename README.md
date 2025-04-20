@@ -2,7 +2,7 @@
   <img src="sunshine.png" />
   <h1 align="center">Sunshine</h1>
   <h4 align="center">Self-hosted game stream host for Moonlight.</h4>
-</div> 
+</div>
 
 <div align="center">
   <a href="https://github.com/LizardByte/Sunshine"><img src="https://img.shields.io/github/stars/lizardbyte/sunshine.svg?logo=github&style=for-the-badge" alt="GitHub stars"></a>
